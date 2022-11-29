@@ -26,34 +26,34 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     })
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/lordagam23_' 
-global.syt = 'https://youtube.com/channel/UCbbWYVvhTHz3AzfgYz4fMgg'
-global.sgh = 'https://github.com/KazeDevID/'
-global.sgc = 'https://chat.whatsapp.com/Lg1V1A0lRRA7d9Iaq117um'
-global.swa = 'wa.me/6282217590187'
+global.sig = 'https://instagram.com/ananda.alif.rizky' 
+global.syt = 'https://youtube.com/@belfroutcsch9579'
+global.sgh = 'https://github.com/Bellfroutcs'
+global.sgc = 'https://chat.whatsapp.com/KGui5W4Ud4n224ZLMqR0rZ'
+global.swa = 'wa.me/6283816797646'
 global.stg = 't.me/KenalSayaaa'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 global.ultahown = 'Maret 23 2023 00:00:01'
 
 /*============== PAYMENT ==============*/
-global.pdana = '082217590187'
+global.pdana = '083816797646'
 global.povo = '-'
-global.pgopay = '082217590187'
-global.ppulsa = '082217590187'
-global.ppulsa2 = '082217590187'
-global.psaweria = 'https://saweria.co/KazeDevID'
+global.pgopay = '083816797646'
+global.ppulsa = '083816797646'
+global.ppulsa2 = '083816797646'
+global.psaweria = 'https://saweria.co/Bellfroutcs'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282217590187'
-global.nomorown = '6282217590187'
-global.namebot = 'KinakoBot'
-global.nameown = 'Lord Kaze'
+global.nomorbot = '6283816797646'
+global.nomorown = '6283816797646'
+global.namebot = 'Neko BOTz'
+global.nameown = 'AnandaDEV'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282217590187', 'Lord Kaze', 'true']
+  ['6283816797646', 'Ananda DEV', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -82,21 +82,21 @@ global.danied = '*𝗘𝗥𝗥𝗢𝗥*'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/P6gSxBm/Menu-Kinako-Bot.jpg' //Main Thumbnail
-global.imagebot = 'https://i.ibb.co/PxSxQhd/20221103-171638.jpg'
-global.giflogo = 'https://i.ibb.co/PxSxQhd/20221103-171638.jpg'
-global.giflogo2 = 'https://i.ibb.co/P6gSxBm/Menu-Kinako-Bot.jpg'
-global.thumbs = ['https://i.ibb.co/P6gSxBm/Menu-Kinako-Bot.jpg']
+global.thumb = 'https://ibb.co/vj3G8Xp' //Main Thumbnail
+global.imagebot = 'https://ibb.co/vj3G8Xp'
+global.giflogo = 'https://ibb.co/vj3G8Xp'
+global.giflogo2 = 'https://ibb.co/vj3G8Xp'
+global.thumbs = ['https://ibb.co/vj3G8Xp']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.thumbBanned = 'https://i.ibb.co/wQyLDLx/kaze.jpg'
-global.thumbWarn = 'https://i.ibb.co/wQyLDLx/kaze.jpg'
-global.intro = 'https://i.ibb.co/PxSxQhd/20221103-171638.jpg'
+global.thumbBanned = 'https://ibb.co/vj3G8Xp'
+global.thumbWarn = 'https://ibb.co/vj3G8Xp'
+global.intro = 'https://ibb.co/vj3G8Xp'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = `${global.nameown}`
 global.umurowner = '18'
 global.asalowner = 'Isekai'
-global.nomorowner = 'wa.me/6282217590187'
-global.pacarowner = 'Kinako chan><'
+global.nomorowner = 'wa.me/6283816797646'
+global.pacarowner = 'Neko chan><'
 
 /*============== TEXT ==============*/
 global.wait = '_In progress, please wait..._'
@@ -115,7 +115,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://i.ibb.co/PxSxQhd/20221103-171638.jpg'
+global.thumbdoc = 'https://ibb.co/vj3G8Xp'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
